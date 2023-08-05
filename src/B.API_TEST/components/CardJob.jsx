@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { data } from '../../fakedata/fakedata.js';
 import JobDetail from '../pages/JobDetail';
+import { data } from '../../fakedata/fakedata';
+
 
 const CardJob = () => {
   const [selectedJob, setSelectedJob] = useState(null);
