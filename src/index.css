@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ul {
+  list-style-type: circle; /* Atau 'square', 'none', dll. */
+}
+
+li {
+  font-size: 16px;
+  color: #333;
+}

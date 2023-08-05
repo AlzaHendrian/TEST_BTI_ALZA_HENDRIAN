@@ -1,0 +1,11 @@
+Microservices Architecture :
+Kubernetes
+Kubernetes dapat otomatisasi tugas-tugas kompleks seperti penyeimbangan beban, skalabilitas otomatis, dan pemulihan mandiri, sehingga memudahkan pengembang untuk menjaga keandalan dan ketersediaan aplikasi.
+
+Serverless Architecture:
+AWS Lambda
+memungkinkan untuk mengeksekusi kode dalam tanggapan terhadap peristiwa, seperti permintaan HTTP, perubahan pada basis data, atau peristiwa lain, tanpa harus mengelola infrastruktur server secara eksplisit.
+
+Event-Driven Architecture:
+Apache Kafka
+Platform streaming data yang mampu menangani kode secara skalabel. Menggunakan sistem publikasi-subskripsi penerbit (publisher) mengirim peristiwa ke topik (topic) yang dapat berlangganan (subscribe) oleh konsumen (consumer).

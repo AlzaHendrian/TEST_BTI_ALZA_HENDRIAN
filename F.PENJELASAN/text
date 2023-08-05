@@ -1,0 +1,14 @@
+Cypress adalah sebuah alat (tool) pengujian end-to-end (end-to-end testing) untuk aplikasi web.
+
+Kubernetes adalah platform manajemen kontainer yang digunakan untuk mengelola dan menyebarkan aplikasi yang berjalan dalam kontainer. 
+
+ORM adalah teknik dalam pengembangan perangkat lunak yang digunakan untuk menghubungkan basis data relasional dengan kode berbasis objek.
+
+Class adalah konstruksi dasar dalam pemrograman berbasis objek. Class adalah blueprint atau cetak biru untuk menciptakan objek. 
+
+Function (fungsi) adalah blok kode yang menyimpan serangkaian instruksi tertentu. Function dapat menerima argumen (input) dan mengembalikan hasil (output) setelah dieksekusi.
+
+DevOps adalah pendekatan dalam pengembangan perangkat lunak yang menggabungkan tim pengembang (developers) dengan tim operasi (operations) untuk menciptakan siklus pengembangan dan penerapan aplikasi yang lebih cepat dan efisien.
+
+Docker adalah platform perangkat lunak yang memungkinkan pengembang untuk mengemas aplikasi dan semua dependensinya ke dalam wadah (container) yang ringkas dan terisolasi.
+
